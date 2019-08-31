@@ -1,1 +1,2 @@
 Multithreading thread creation
+Implemented threads methods and also implmented thread with runnable interface.
